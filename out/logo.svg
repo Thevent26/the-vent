@@ -1,0 +1,5 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="100" fill="#111" />
+  <text x="100" y="50" font-family="Arial" font-size="28" font-weight="bold" text-anchor="middle" fill="#ff4500">The Vent</text>
+  <path d="M40 70 Q60 50 80 70 Q100 50 120 70" stroke="#ff4500" stroke-width="3" fill="none" />
+</svg>
