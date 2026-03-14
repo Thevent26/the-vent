@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #111; color: #fff; text-align: center; }
+header { background: #ff4500; padding: 20px; }
+#rant-form { margin: 20px; }
+textarea { width: 80%; height: 150px; }
+button { background: #ff4500; color: white; padding: 10px 20px; border: none; cursor: pointer; }
+.rant { background: #222; margin: 10px; padding: 10px; border-radius: 5px; }

@@ -1,0 +1,1 @@
+export default function Home() { return ( <div> <h1>Welcome to The Vent</h1> <img src="/logo.svg" alt="Logo" width="200" /> <form action="https://formspree.io/f/YOUR_ID" method="POST"> <textarea name="rant" placeholder="Vent anonymously" /> <button type="submit">Submit</button> </form> <div>Sample Rant: Life is hard!</div> </div> ); }
